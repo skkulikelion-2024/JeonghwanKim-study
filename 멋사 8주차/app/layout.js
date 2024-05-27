@@ -1,5 +1,3 @@
-import Navigation from "../components/navigation"
-import { Metadata } from "./(home)/page"
 
 export const metadata = {
   title: '%s | Next Movies',
