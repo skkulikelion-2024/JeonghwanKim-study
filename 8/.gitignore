@@ -5,7 +5,7 @@ node_modules
 
 **/.DS_Store
 **/._.DS_Store
-**/.next/
+/.next/
 **/.swc/
 
 # testing
